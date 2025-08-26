@@ -1,7 +1,7 @@
 # AM2R-Scarlet-Ridley-Manual-APworld
 An unofficial Manual randomizer for Haihaa's unofficial Ridley mod, Scarlet Ridley, for the unofficial continuation of the unofficial Metroid fangame, AM2R. Be careful, this APworld can be quite difficult!
 
-IMPORTANT: This APworld WILL NOT generate as a solo game due to there being more items than checks. Therefore, this APworld is only compatible with Multiworld sessions with, at minimum, 8 filler checks.
+IMPORTANT: This APworld WILL NOT generate as a solo game due to there being more items than checks. Therefore, this APworld is only compatible with Multiworld sessions with, at minimum, 9 filler checks.
 
 Requirements:
 - AM2R 1.1
