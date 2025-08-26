@@ -37,4 +37,4 @@ Randomized Checks:
 - Winning on each difficulty with a 100% Performance Rating (no-hit run) (Hellfire Ridley not included)
 - Speedrunning phase 1 and 2 in very quick times (Hellfire Ridley not included)
 - Completing that one Spiky Room in between Hellfire Ridley's second and third phases because why not
-Note: For defeating phases, speedrunning and 100% Performance Rating, if you geta check on a higher difficulty, you automatically get all the checks for the same challenge on lower difficulties. However, this rule DOES NOT apply to Hellfire Ridley Phase 2 since it is much shorter than the other Phase 2's.
+Note: For defeating phases, speedrunning and 100% Performance Rating, if you get a check on a higher difficulty, you automatically get all the checks for the same challenge on lower difficulties. However, this rule DOES NOT apply to Hellfire Ridley Phase 2 since it is much shorter than the other Phase 2's.
