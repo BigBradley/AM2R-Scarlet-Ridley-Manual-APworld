@@ -7,7 +7,7 @@ Requirements:
 - AM2R 1.1
 - AM2RLauncher 2.3.0
 - Scarlet Ridley 1.1
-- Archipelago 0.6.3 (newer versions not tested)
+- Archipelago 0.6.3 and above
 - The skill to defeat Hellfire Ridley
 
 Goal:
